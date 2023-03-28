@@ -1,5 +1,5 @@
 void main() {
-  var nome = "Traue"; //Assume o tipo da primeira atribuição
+  var nome = "Guilherme"; //Assume o tipo da primeira atribuição
   dynamic saldo = 100.50; //Assume o tipo de qualquer variável
   
   print(nome);
